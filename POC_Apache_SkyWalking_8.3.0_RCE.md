@@ -6,7 +6,7 @@ Trong giao diện GraphQL của Apache Skywalking 8.3.0 và các phiên bản tr
 Cài đặt Apache SkyWalking phiên bản 8.3.0<br>
 
 <h2>Prerequisites</h2>
-Yêu cầu cài đặt môi trường Java(JDK) phiên bản 8 trở lên trên hệ thống của mình
+Yêu cầu cài đặt môi trường Java(JDK) phiên bản 8 trở lên trên hệ thống của mình<br>
 ``` bash
 sudo apt update && sudo apt install openjdk-11-jdk -y
 ```
