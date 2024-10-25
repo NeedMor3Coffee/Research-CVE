@@ -32,7 +32,7 @@ cd apache-skywalking-apm-bin/bin
 Sau khi cài đặt thành công chúng ta có thể vào http://your-ip:8080 để xem trang web
 <h2>POC APACHE SKYWALKING 8.3.0</h2>
 
-![Alt Text](https://github.com/NeedMor3Coffee/CTF/blob/main/picoCTF/Web_Exploitation/img/hinh5.png)
+![Alt Text](https://github.com/NeedMor3Coffee/Research-CVE/blob/main/img/hinh1.png)
 
 Bây giờ chúng ta cùng nhau phân tích một chút về mã nguồn của Apache SkyWalking phiên bản 8.3.0. Chúng ta có thể thấy ở dòng thứ 
 
