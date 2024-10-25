@@ -7,7 +7,7 @@ Cài đặt Apache SkyWalking phiên bản 8.3.0<br>
 
 <h2>Prerequisites</h2>
 Yêu cầu cài đặt môi trường Java(JDK) phiên bản 8 trở lên trên hệ thống của mình
-\```bash
+``` bash
 sudo apt update && sudo apt install openjdk-11-jdk -y
-\```
+```
 Thiết lập môi trường
