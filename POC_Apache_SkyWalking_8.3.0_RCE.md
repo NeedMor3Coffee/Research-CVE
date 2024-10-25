@@ -3,3 +3,11 @@ Apache Skywalking là công cụ giám sát hiệu suất ứng dụng cho các 
 Trong giao diện GraphQL của Apache Skywalking 8.3.0 và các phiên bản trước đó, có lỗ hổng tiêm SQL vào cơ sở dữ liệu H2.
 
 <h2>VULNERABILITY ENVIRONMENT</h2>
+Cài đặt Apache SkyWalking phiên bản 8.3.0<br>
+
+<h2>Prerequisites</h2>
+Yêu cầu cài đặt môi trường Java(JDK) phiên bản 8 trở lên trên hệ thống của mình
+```bash
+sudo apt update && sudo apt install openjdk-11-jdk -y
+```
+Thiết lập môi trường
