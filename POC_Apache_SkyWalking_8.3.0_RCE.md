@@ -34,7 +34,7 @@ Sau khi cài đặt thành công chúng ta có thể vào http://your-ip:8080 đ
 
 ![Alt Text](https://github.com/NeedMor3Coffee/Research-CVE/blob/main/img/hinh1.png)
 
-Bây giờ chúng ta cùng nhau phân tích một chút về mã nguồn của Apache SkyWalking phiên bản 8.3.0. Chúng ta có thể thấy ở dòng thứ 
+Bây giờ chúng ta cùng nhau phân tích một chút về mã nguồn của Apache SkyWalking phiên bản 8.3.0. Chúng ta có thể thấy ở dòng thứ 81 hàm queryLog
 
 
 
